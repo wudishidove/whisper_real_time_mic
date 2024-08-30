@@ -13,6 +13,8 @@ real time translate voice to text from mic
 ## - 3. 到錄製，將CABLE output設定為預設裝置，選擇電腦音訊輸出並且將聆聽此裝置勾選，並且將透過此裝置播放選擇為使用中的耳機
 
 ![image](https://github.com/user-attachments/assets/ea4700ff-d9b1-42e2-aec4-56bfbc9cf9fc)
+![image](https://github.com/user-attachments/assets/58a3a7bb-3a71-46b5-a455-7ee783f368f8)
+
 
 
 
