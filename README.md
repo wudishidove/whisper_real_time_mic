@@ -22,5 +22,5 @@ real time translate voice to text from mic
 
 
 ## - 4. 在同一個資料夾開啟終端機或者CMD(命令提示字元)並輸入下列指令
-
+`python stable_flex_10_sec.py`
 
