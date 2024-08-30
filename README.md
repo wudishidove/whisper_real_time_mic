@@ -12,7 +12,8 @@ real time translate voice to text from mic
 
 ## - 3. 到錄製，選擇電腦音訊輸出並且將聆聽此裝置勾選，並且將透過此裝置播放選擇為使用中的耳機
 
-![image](https://github.com/nKiux/live-JP-CH-translator/assets/46084374/9908bc11-15ce-43d0-92e1-44c234c383d1)
+![image](https://github.com/user-attachments/assets/ea4700ff-d9b1-42e2-aec4-56bfbc9cf9fc)
+
 
 
 ## - 4. 在同一個資料夾開啟終端機或者CMD(命令提示字元)並輸入下列指令
