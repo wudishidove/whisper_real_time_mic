@@ -4,9 +4,9 @@ real time translate voice to text from mic
 
 # 使用教學
 ## 環境需求
-照requirment直接裝，安裝之前記得先裝cuda跟對應的pytorch，因為這份專案用whisper，需要本地顯卡
-
-安裝完cuda跟對應的pytorch之後
+照requirment直接裝，安裝之前記得先裝cuda12.1，因為這份專案用whisper，需要本地顯卡
+![](https://medium.com/ching-i/win10-%E5%AE%89%E8%A3%9D-cuda-cudnn-%E6%95%99%E5%AD%B8-c617b3b76deb)
+安裝cuda12.1 跟cudnn後，可以直接跑下面的，不然就自己另外裝對應的pytorch
 `python.exe -m pip install -r requirements.txt`
 ## - 1. 安裝 [VB-Virtual Audio Device](https://vb-audio.com/Cable/)
 ## - 2. 安裝後將CABLE Input設定為預設播放裝置
