@@ -1,6 +1,6 @@
 # whisper_real_time_mic
 real time translate voice to text from mic 
-
+及時偵測MIC或喇叭音訊，轉成文本，讓你輕鬆追英V或日V
 
 # 使用教學
 ## 環境需求
@@ -22,5 +22,13 @@ real time translate voice to text from mic
 
 
 ## - 4. 在同一個資料夾開啟終端機或者CMD(命令提示字元)並輸入下列指令
-`python stable_flex_10_sec.py`
-
+英文台
+`python stable_flex_10_sec.py `
+其他語言
+`python stable_flex_10_sec.py --non_english`
+顯卡很爛想用其他AI模型的話
+`python stable_flex_10_sec.py --model tiny`
+顯卡很強想用其他AI模型的話
+`python stable_flex_10_sec.py --model small`
+`python stable_flex_10_sec.py --model medium`
+`python stable_flex_10_sec.py --model large`
